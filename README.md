@@ -11,7 +11,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio]([(https://chaekan.vercel.app/)]) for more details about me.
+- 💻 Visit my [Portfolio]([https://chaekan.vercel.app/]) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
